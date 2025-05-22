@@ -96,7 +96,7 @@ Key configuration options in `.env`:
 
 ```env
 # Model Settings
-RAG_MODEL_NAME=gpt-4-turbo-preview
+RAG_MODEL_NAME=gpt-4o-mini
 RAG_EMBEDDING_MODEL=text-embedding-3-large
 RAG_TEMPERATURE=0.0
 
