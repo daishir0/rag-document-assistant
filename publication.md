@@ -1,4 +1,4 @@
-# Enhancing RAG Systems with Fact Verification and Conversation Management
+# A Wikipedia-based RAG System with Fact Verification and Conversation Management
 
 ## Abstract
 
